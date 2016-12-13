@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Home Pushups</string>
+    <string name="title_activity_programs_list">ProgramsListActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_my_training">MyTrainingActivity</string>
+    <string name="main_activity_label">You did not choose your program. Please select your program.</string>
+    <string name="main_activity_label_with_program">Your current program is:\n %1$s, Day %2$d</string>
+
+    <string name="mt_day">Day %1$d:</string>
+    <string name="mt_total">Total: %1$d</string>
+    <string name="mt_timer">01 : 00</string>
+    <string name="mt_reps_button">Set %1$d: do %2$d reps</string>
+    <string name="mt_dialog_training_complete">Training completed!</string>
+    <string name="mt_dialog_program_completed">Program completed!</string>
+    <string name="mt_dialog_next_training">Next training after 48 hr!</string>
+    <string name="mt_dialog_next_program">Choose next program after two days.\n If you need you can repeat this program.</string>
+
+    <string name="home_pushups">Home Pushups</string>
+    <string name="select_your_program">Select your program</string>
+    <string name="do_it_now">Do it now!</string>
+    <string name="do_pushups">Do pushups and press button</string>
+    <string name="rest">Rest between sets necessary time</string>
+    <string name="_30_sec">+ 30 sec</string>
+    <string name="skip_the_pause">Skip the Pause</string>
+    <string name="ok">OK</string>
+</resources>
